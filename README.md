@@ -6,7 +6,7 @@ To specify port run:
     
 To connect to server you may use:
     nc <your server ip> 4444
-if you have choosen your own port:
+if you have chosen your own port:
     nc <your server ip> <your port>
     and then ask queries, to shout down the server write "poweroff"
 
